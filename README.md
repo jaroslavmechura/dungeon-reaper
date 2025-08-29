@@ -11,6 +11,7 @@
 
 ## Game Description  
 **Dungeon Reaper** is a 3D first-person shooter developed in **Unity**, inspired by classic titles like *Doom*.  
+
 In this fast-paced, action-packed game, players take on the role of a lost space marine who, after an unfortunate teleportation mishap, finds himself trapped in a dark and ominous dungeon. His mission: to escape and find a way back home.  
 
 Players will face off against terrifying, magic-wielding monsters as they navigate through the dungeon. Along the way, they can collect weapons, pickups, and other resources to aid in their survival. The protagonist is highly agile, capable of dashing and double-jumping to outmaneuver enemies and evade danger.  
