@@ -47,7 +47,7 @@ I worked on most aspects of the game, with the exception of the external assets 
 | Type           | Description / Source                   | Link                                            |  
 |----------------|----------------------------------------|-------------------------------------------------|  
 | Weapon Models  | 3D models of weapons                   | [https://poly.pizza/u/Quaternius](https://poly.pizza/u/Quaternius)  |  
-| Enemy Models   | 3D models of enemies                   | [https://sketchfab.com/wojciechmiedziocha](https://sketchfab.com/wojciechmiedziocha) and [https://sketchfab.com/simonemaccari](https://sketchfab.com/simonemaccari) |  
+| Enemy Models   | 3D models of enemies                   | [https://sketchfab.com/wojciechmiedziocha](https://sketchfab.com/wojciechmiedziocha) [https://sketchfab.com/simonemaccari](https://sketchfab.com/simonemaccari) |  
 | Environment Models | 3D models of dungeon environment | [https://poly.pizza/u/Quaternius](https://poly.pizza/u/Quaternius)  |  
 | Sound Effects  | Audio effects for the game             | [https://pixabay.com/cs/users/freesound_community-46691455/](https://pixabay.com/cs/users/freesound_community-46691455/) |  
 | Music          | Music tracks for levels                | [https://www.youtube.com/channel/UCJhvqAefjP7mF_2NdTs8tFw](https://www.youtube.com/channel/UCJhvqAefjP7mF_2NdTs8tFw)  |  
